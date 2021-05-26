@@ -1,0 +1,19 @@
+{
+	"files.associations": {
+		"*.xml": "html",
+		"*.svg": "html"
+	},
+	"editor.formatOnSave": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[svelte]": {
+		"editor.defaultFormatter": "svelte.svelte-vscode"
+	},
+	"beautify.language": {
+		"json": {
+			"ext": ["json"],
+			"type": ["json"],
+			"filename": [".jshintrc", ".jsbeautifyrc"]
+		}
+	},
+	"workbench.iconTheme": "material-icon-theme"
+}
